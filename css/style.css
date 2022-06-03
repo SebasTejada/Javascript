@@ -1,0 +1,51 @@
+.header{
+    background-color: white;
+    margin: 0px;
+
+}
+
+.body{
+	background-color: white;
+    margin: 0 auto;
+}
+
+.content{
+      height: 50px;
+      text-align: center;
+      border: 1px solid ;
+      
+  
+   
+}
+
+input::placeholder {
+  color: gray;
+  padding: center;
+
+}
+
+.boton {
+  background-color: yellow;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+.sidebar {
+height: 100%;
+width: 250px;
+position: fixed;
+left: 0;
+top: 0;
+padding-top: 20px;
+background-color: white;
+border: 1px solid ;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 20px;
+}
+
+
